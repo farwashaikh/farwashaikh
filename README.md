@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello 👋🏻
 I am an Electronic Engineering graduate with 2 years of job experience alongside internships and<br>hands-on projects in A.I & Networking Security. 
 
 ## 🌐 Socials:
