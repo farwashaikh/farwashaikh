@@ -1,5 +1,5 @@
 # 💫 Hello 👋🏻
-I am an Electronic Engineering graduate with 3 years of job experience alongside internships and<br>hands-on projects in A.I & Networking Security. 
+I am an Electronic Engineering graduate with 3 years of job experience alongside internships and<br>hands-on projects in Networking Security and Artiicial Intelligence. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farwa-shaikh06/) 
